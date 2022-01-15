@@ -48,7 +48,7 @@
     "assert": "^2.0.0",
     "canvas": "^2.6.1",
     "fs": "0.0.1-security",
-    "marked": "^1.1.1",
+    "marked": "^4.0.10",
     "parcel-plugin-static-files-copy": "^2.4.3",
     "promise-svg2img": "^0.2.0",
     "read-file": "^0.2.0",
