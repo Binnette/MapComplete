@@ -35,7 +35,7 @@
     "leaflet-providers": "^1.10.2",
     "libphonenumber": "0.0.10",
     "libphonenumber-js": "^1.7.55",
-    "moment": "^2.29.0",
+    "moment": "^2.29.2",
     "opening_hours": "^3.5.0",
     "osm-auth": "^1.0.2",
     "osmtogeojson": "^3.0.0-beta.4",
